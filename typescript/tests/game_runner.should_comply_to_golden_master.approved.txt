@@ -1,0 +1,125 @@
+Chet was added
+They are player number 1
+Pat was added
+They are player number 2
+Sue was added
+They are player number 3
+Chet is the current player
+They have rolled a 1
+Chet's new location is NaN
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Chet now has NaN Gold Coins.
+Pat is the current player
+They have rolled a 13
+Pat's new location is 1
+The category is Science
+Science Question 0
+Answer was corrent!!!!
+Pat now has 1 Gold Coins.
+Sue is the current player
+They have rolled a 25
+Sue's new location is 13
+The category is Rock
+Rock Question 1
+Answer was corrent!!!!
+Sue now has 1 Gold Coins.
+Chet is the current player
+They have rolled a 37
+Chet's new location is NaN
+The category is Rock
+Rock Question 2
+Answer was corrent!!!!
+Chet now has NaN Gold Coins.
+Pat is the current player
+They have rolled a 49
+Pat's new location is 38
+The category is Rock
+Rock Question 3
+Answer was corrent!!!!
+Pat now has 2 Gold Coins.
+Sue is the current player
+They have rolled a 61
+Sue's new location is 62
+The category is Rock
+Rock Question 4
+Answer was corrent!!!!
+Sue now has 2 Gold Coins.
+Chet is the current player
+They have rolled a 73
+Chet's new location is NaN
+The category is Rock
+Rock Question 5
+Answer was corrent!!!!
+Chet now has NaN Gold Coins.
+Pat is the current player
+They have rolled a 85
+Pat's new location is 111
+The category is Rock
+Rock Question 6
+Answer was corrent!!!!
+Pat now has 3 Gold Coins.
+Sue is the current player
+They have rolled a 97
+Sue's new location is 147
+The category is Rock
+Rock Question 7
+Answer was corrent!!!!
+Sue now has 3 Gold Coins.
+Chet is the current player
+They have rolled a 109
+Chet's new location is NaN
+The category is Rock
+Rock Question 8
+Answer was corrent!!!!
+Chet now has NaN Gold Coins.
+Pat is the current player
+They have rolled a 121
+Pat's new location is 220
+The category is Rock
+Rock Question 9
+Answer was corrent!!!!
+Pat now has 4 Gold Coins.
+Sue is the current player
+They have rolled a 133
+Sue's new location is 268
+The category is Rock
+Rock Question 10
+Answer was corrent!!!!
+Sue now has 4 Gold Coins.
+Chet is the current player
+They have rolled a 145
+Chet's new location is NaN
+The category is Rock
+Rock Question 11
+Answer was corrent!!!!
+Chet now has NaN Gold Coins.
+Pat is the current player
+They have rolled a 157
+Pat's new location is 365
+The category is Rock
+Rock Question 12
+Answer was corrent!!!!
+Pat now has 5 Gold Coins.
+Sue is the current player
+They have rolled a 169
+Sue's new location is 425
+The category is Rock
+Rock Question 13
+Answer was corrent!!!!
+Sue now has 5 Gold Coins.
+Chet is the current player
+They have rolled a 181
+Chet's new location is NaN
+The category is Rock
+Rock Question 14
+Answer was corrent!!!!
+Chet now has NaN Gold Coins.
+Pat is the current player
+They have rolled a 193
+Pat's new location is 546
+The category is Rock
+Rock Question 15
+Answer was corrent!!!!
+Pat now has 6 Gold Coins.
